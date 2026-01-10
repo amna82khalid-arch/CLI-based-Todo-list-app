@@ -21,11 +21,9 @@ The goal of this project was to:
 
 ## 🛠️ Tools Used
 
-- **Python 3**
 - **Visual Studio Code (VS Code)**
 - **Claude Code CLI**
-- **JSON file storage**
-
+  
 ---
 
 ## 📂 Project Structure
